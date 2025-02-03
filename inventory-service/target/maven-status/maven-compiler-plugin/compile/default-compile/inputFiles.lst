@@ -1,0 +1,7 @@
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/InventoryServiceApplication.java
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/config/KafkaConfig.java
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/service/OrderEventConsumer.java
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/repository/InventoryRepository.java
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/controller/InventoryController.java
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/model/Inventory.java
+/Users/ibrahimsahin/dev/kafka/e-commerce-microservices/inventory-service/src/main/java/com/eeibra/ecommerce/inventory/model/Order.java

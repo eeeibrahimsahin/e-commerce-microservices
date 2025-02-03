@@ -1,0 +1,4 @@
+com/eeibra/ecommerce/notification/model/Order.class
+com/eeibra/ecommerce/notification/NotificationServiceApplication.class
+com/eeibra/ecommerce/notification/config/KafkaConsumerConfig.class
+com/eeibra/ecommerce/notification/service/OrderEventConsumer.class

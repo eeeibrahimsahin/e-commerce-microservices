@@ -1,0 +1,6 @@
+com/eeibra/ecommerce/order/repository/OrderRepository.class
+com/eeibra/ecommerce/order/controller/OrderController.class
+com/eeibra/ecommerce/order/model/Order.class
+com/eeibra/ecommerce/order/OrderServiceApplication.class
+com/eeibra/ecommerce/order/config/KafkaConfig.class
+com/eeibra/ecommerce/order/service/OrderService.class

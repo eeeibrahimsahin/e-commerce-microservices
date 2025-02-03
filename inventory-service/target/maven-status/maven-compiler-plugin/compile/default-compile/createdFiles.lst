@@ -1,0 +1,6 @@
+com/eeibra/ecommerce/inventory/config/KafkaConfig.class
+com/eeibra/ecommerce/inventory/InventoryServiceApplication.class
+com/eeibra/ecommerce/inventory/controller/InventoryController.class
+com/eeibra/ecommerce/inventory/model/Inventory.class
+com/eeibra/ecommerce/inventory/repository/InventoryRepository.class
+com/eeibra/ecommerce/inventory/model/Order.class
